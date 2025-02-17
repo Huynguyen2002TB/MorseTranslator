@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MorseTranslator</string>
+    <string name="tv_lable">Chuyển Đổi Morse</string>
+    <string name="tv_input">Nhập văn bản hoặc mã Morse</string>
+    <string name="action_trans">Chuyển đổi</string>
+    <string name="tv_result">Kết quả:</string>
+</resources>
